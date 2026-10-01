@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#f8fafc"/>
+  <rect x="50" y="50" width="700" height="900" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="50" y="50" width="700" height="140" fill="#0f766e"/>
+  <text x="400" y="110" font-family="sans-serif" font-weight="bold" font-size="32" fill="#ffffff" text-anchor="middle">DR. AHMED KHAN, M.D.</text>
+  <text x="400" y="150" font-family="sans-serif" font-size="18" fill="#e2e8f0" text-anchor="middle">Senior Consultant Physician • PMDC # 78452</text>
+  
+  <text x="100" y="240" font-family="sans-serif" font-weight="bold" font-size="20" fill="#0f172a">Patient Name: John Doe</text>
+  <text x="550" y="240" font-family="sans-serif" font-weight="bold" font-size="20" fill="#0f172a">Date: 2026-10-01</text>
+  <line x1="100" y1="270" x2="700" y2="270" stroke="#94a3b8" stroke-width="2"/>
+  
+  <text x="100" y="340" font-family="sans-serif" font-weight="bold" font-size="40" fill="#0f766e">Rx</text>
+  <text x="130" y="410" font-family="monospace" font-size="22" fill="#1e293b">1. Tab. Amoxicillin 500mg ----- 1 cap TID (7 Days)</text>
+  <text x="130" y="470" font-family="monospace" font-size="22" fill="#1e293b">2. Tab. Panadol Extra 500mg --- 1 tab BD SOS</text>
+  <text x="130" y="530" font-family="monospace" font-size="22" fill="#1e293b">3. Cap. Centrum Multivitamin -- 1 cap OD</text>
+  
+  <rect x="450" y="780" width="230" height="100" rx="8" fill="none" stroke="#0f766e" stroke-width="3" stroke-dasharray="6,6"/>
+  <text x="565" y="835" font-family="sans-serif" font-weight="bold" font-size="18" fill="#0f766e" text-anchor="middle">VERIFIED STAMP</text>
+  <text x="565" y="860" font-family="sans-serif" font-size="14" fill="#0f766e" text-anchor="middle">Dr. Ahmed Khan M.D.</text>
+</svg>

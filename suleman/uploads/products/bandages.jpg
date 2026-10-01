@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+      <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#f8fafc" />
+          <stop offset="100%" stop-color="#e2e8f0" />
+        </linearGradient>
+        <linearGradient id="header" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#059669" />
+          <stop offset="100%" stop-color="#059669" />
+        </linearGradient>
+        <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#0f172a" flood-opacity="0.12"/>
+        </filter>
+      </defs>
+
+      <rect width="600" height="600" fill="url(#bg)" />
+
+      <!-- Product Box Container -->
+      <g filter="url(#shadow)">
+        <rect x="100" y="80" width="400" height="440" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+        
+        <!-- Header Banner -->
+        <path d="M 100 104 Q 100 80 124 80 L 476 80 Q 500 80 500 104 L 500 160 L 100 160 Z" fill="url(#header)"/>
+        <text x="300" y="130" font-family="system-ui, sans-serif" font-weight="bold" font-size="26" fill="#ffffff" text-anchor="middle">AFRIDI PHARMACY</text>
+        
+        <!-- Cross Icon -->
+        <circle cx="300" cy="270" r="55" fill="#f1f5f9"/>
+        <path d="M285 270 H315 M300 255 V285" stroke="#059669" stroke-width="12" stroke-linecap="round"/>
+        
+        <!-- Product Label -->
+        <rect x="140" y="360" width="320" height="120" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+        <text x="300" y="400" font-family="system-ui, sans-serif" font-weight="bold" font-size="20" fill="#0f172a" text-anchor="middle">Waterproof Bandages</text>
+        <text x="300" y="430" font-family="system-ui, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">First Aid</text><rect x="380" y="100" width="100" height="30" rx="15" fill="#dc2626" />
+        <text x="430" y="121" font-family="system-ui, sans-serif" font-weight="bold" font-size="13" fill="#ffffff" text-anchor="middle">Wound Care</text></g>
+    </svg>
